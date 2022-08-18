@@ -7,3 +7,9 @@ The most important part  is understanding the data that is available. You will o
 
 
 Everything about machine learning and data science is made exceedingly simple with Python. We may easily achieve any desired action by utilizing some of the top libraries available in Python. Pandas is one such package that allows us to examine and manipulate data in order to reduce the complexity and speed up the problem-solving process
+
+
+One of the best features available in Python for data analysis operations is the Pandas library
+
+pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free softwar
+ 
